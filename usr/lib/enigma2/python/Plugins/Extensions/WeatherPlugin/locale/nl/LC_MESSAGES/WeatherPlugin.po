@@ -46,16 +46,16 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Really delete this WeatherPlugin Entry?"
-msgstr "Deze entry echt verwijderen?"
+msgstr "Deze WeatherPlugin invoer echt verwijderen?"
 
 msgid "Show Weather Forecast"
 msgstr "Toon weersverwachting"
 
 msgid "Weather Plugin"
-msgstr "Weather Plugin"
+msgstr "Weer Plugin"
 
 msgid "WeatherPlugin: Edit Entry"
-msgstr "WeatherPlugin: bewerl entry"
+msgstr "WeatherPlugin: bewerk invoer"
 
 msgid "WeatherPlugin: List of Entries"
-msgstr "WeatherPlugin: Lijst met entries"
+msgstr "WeatherPlugin: Lijst met ingevoerde gegevens"
