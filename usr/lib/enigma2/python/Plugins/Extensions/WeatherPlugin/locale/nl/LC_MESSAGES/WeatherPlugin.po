@@ -26,14 +26,23 @@ msgstr "Annuleer"
 msgid "City"
 msgstr "Stad"
 
+msgid "Current Weather"
+msgstr "Huidig ​​weer"
+
 msgid "Delete"
 msgstr "Verwijder"
 
 msgid "Edit"
 msgstr "Bewerk"
 
+msgid "Feels like"
+msgstr "Gevoelstemperatuur"
+
 msgid "Getting weather information..."
 msgstr "Bezig weersinformatie op te halen...."
+
+msgid "Humidity"
+msgstr "Luchtvochtigheid"
 
 msgid ""
 "No locations defined...\n"
@@ -44,6 +53,12 @@ msgstr ""
 
 msgid "OK"
 msgstr "OK"
+
+msgid "Observation point:"
+msgstr "Waarnemingspunt:"
+
+msgid "Observation time:"
+msgstr "Waarnemingstijd:"
 
 msgid "Really delete this WeatherPlugin Entry?"
 msgstr "Deze WeatherPlugin invoer echt verwijderen?"
